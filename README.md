@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=로그아웃&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
-<h3 align="center"> 👋 Hi there 👋 </h3>
+![header](https://capsule-render.vercel.app/api?type=Venom&color=30A9DE&height=170&section=header&text=로그아웃&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
