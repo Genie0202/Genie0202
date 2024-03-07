@@ -20,6 +20,3 @@
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
-<h3 align="center">•••</h3>
-
-</p>
