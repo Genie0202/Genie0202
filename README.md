@@ -23,4 +23,3 @@
 <h3 align="center">•••</h3>
 
 </p>
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
