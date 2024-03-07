@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=30A9DE&height=170&section=header&text=로그아웃&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-<h2 align="center">📚 Technology Stack 📚</h3>
+<h1 align="center">📚 Technology Stack 📚</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Kotlin-blueviolet"/>&nbsp  
